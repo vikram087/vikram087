@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikram Penumarti</h1>
 <h3 align="center">A passionate Computer Science major from UC Davis!</h3>
 
-- 🔭 I’m currently working on [HelpingHand](https://github.com/Helping-Hand-HHH/HelpingHand)
-
 - 🌱 I’m currently learning **React.js, Flask**
 
 - 📫 How to reach me **vikram.penumarti@gmail.com**
