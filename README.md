@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikram Penumarti</h1>
 <h3 align="center">A passionate Computer Science major from UC Davis!</h3>
 
-- 🌱 I’m currently learning **React.js, Flask**
-
 - 📫 How to reach me **vikram.penumarti@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/193JkO5J6SKENAjsPWA4peYlKVfzBiH2Y/view?usp=sharing](https://drive.google.com/file/d/193JkO5J6SKENAjsPWA4peYlKVfzBiH2Y/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YcbD97vGJtiGc0BgbtaFyLFBgORmUuhf/view?usp=sharing](https://drive.google.com/file/d/1YcbD97vGJtiGc0BgbtaFyLFBgORmUuhf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
