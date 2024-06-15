@@ -17,6 +17,13 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram087&show_icons=true&locale=en&layout=compact" alt="vikram087" /></p> -->
 
-<p><img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=vikram087&show_icons=true&locale=en" alt="vikram087" /></p>
-<br />
-<p><img align="center" wdith="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram087&" alt="vikram087" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vikram087&show_icons=true&locale=en" alt="vikram087" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikram087&" alt="vikram087" />
+    </td>
+  </tr>
+</table>
