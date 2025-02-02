@@ -17,8 +17,6 @@ Here are some of my favorite projects:
 - 🤝 [HelpingHand](https://github.com/Helping-Hand-HHH/HelpingHand)
 - 🚦 [Traffic Invaders](https://github.com/vikram087/TrafficInvaders)
 
-Check out more of my projects on my [GitHub profile](https://github.com/Vikram087)! 🚀
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vikram-penumarti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikram-penumarti" height="30" width="40" /></a>
