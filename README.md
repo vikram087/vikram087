@@ -11,11 +11,11 @@ Here are some of my favorite projects:
 
 - 🤺 [Garde](https://github.com/GardeFencing) - [gardeai.com](https://gardeai.com)
 - 🔬 [ICAM Materials Database](https://github.com/vikram087/icam-materials-database)
-- 🥇 Pomodoro - [Web App](https://github.com/Shaurya-Srivastav/AggieGuide), [Chatbot](https://github.com/Shaurya-Srivastav/AggieGuidePython), [Practice Test Maker](https://github.com/vikram087/Aggie_Helper_PTest), [Note Maker](https://github.com/Shaurya-Srivastav/AggieGuideNotes)
+- 📚 Pomodoro - [Web App](https://github.com/Shaurya-Srivastav/AggieGuide), [Chatbot](https://github.com/Shaurya-Srivastav/AggieGuidePython), [Practice Test Maker](https://github.com/vikram087/Aggie_Helper_PTest), [Note Maker](https://github.com/Shaurya-Srivastav/AggieGuideNotes)
 - 🏔️ [ClimbGUI](https://github.com/Climb-GUI/Climb_GUI) - [climb-gui.netlify.app](https://climb-gui.netlify.app)
 - 🦈 [Sharkproof](https://github.com/EW0824/CalHacks24)
 - 🤝 [HelpingHand](https://github.com/Helping-Hand-HHH/HelpingHand)
-- 🚦 [Traffic Invaders](https://github.com/vikram087/TrafficInvaders)
+- 🏎️ [Traffic Invaders](https://github.com/vikram087/TrafficInvaders)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
