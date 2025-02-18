@@ -13,6 +13,7 @@ Here are some of my favorite projects:
 - 🔬 [ICAM Materials Database](https://github.com/vikram087/icam-materials-database)
 - 📚 Pomodoro - [Web App](https://github.com/Shaurya-Srivastav/AggieGuide), [Chatbot](https://github.com/Shaurya-Srivastav/AggieGuidePython), [Practice Test Maker](https://github.com/vikram087/Aggie_Helper_PTest), [Note Maker](https://github.com/Shaurya-Srivastav/AggieGuideNotes)
 - 🏔️ [ClimbGUI](https://github.com/Climb-GUI/Climb_GUI) - [climb-gui.netlify.app](https://climb-gui.netlify.app)
+- 🧠 [MindShift](https://github.com/vikram087/MindShift)
 - 🦈 [Sharkproof](https://github.com/EW0824/CalHacks24)
 - 🤝 [HelpingHand](https://github.com/Helping-Hand-HHH/HelpingHand)
 - 🏎️ [Traffic Invaders](https://github.com/vikram087/TrafficInvaders)
