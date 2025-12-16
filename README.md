@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikram Penumarti</h1>
-<h3 align="center">A passionate Computer Science major from UC Davis!</h3>
+<h3 align="center">Computer Science major from UC Davis!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram087" alt="vikram087" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram087" alt="vikram087" /></a> </p> -->
 
 - 📫 How to reach me **vikram.penumarti@gmail.com**
 
@@ -9,8 +9,8 @@
 
 Here are some of my favorite projects:
 
+<!-- - 🤺 [Garde](https://github.com/GardeFencing) - [gardeai.com](https://gardeai.com) -->
 - 🔗 Linkkup - [linkkup.ai](https://linkkup.ai)
-- 🤺 [Garde](https://github.com/GardeFencing) - [gardeai.com](https://gardeai.com)
 - 🔬 [Matsearch](https://github.com/vikram087/matsearch)
 - 📚 Pomodoro - [Web App](https://github.com/Shaurya-Srivastav/AggieGuide), [Chatbot](https://github.com/Shaurya-Srivastav/AggieGuidePython), [Practice Test Maker](https://github.com/vikram087/Aggie_Helper_PTest), [Note Maker](https://github.com/Shaurya-Srivastav/AggieGuideNotes)
 - 🏔️ [ClimbGUI](https://github.com/Climb-GUI/Climb_GUI) - [climb-gui.netlify.app](https://climb-gui.netlify.app)
@@ -37,10 +37,13 @@ Here are some of my favorite projects:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vikram087&show_icons=true&locale=en" alt="vikram087" />
+      <img src="https://github-readme-stats.vercel.app/api?username=vikram087&show_icons=true&locale=en&theme=radical&hide_rank=true&include_all_commits=true" alt="vikram087" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikram087&" alt="vikram087" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram087&hide=Jupyter%20Notebook&layout=compact" />
     </td>
+    <!-- <td>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@vikram087" />
+    </td> -->
   </tr>
 </table>
