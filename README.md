@@ -42,8 +42,8 @@ Here are some of my favorite projects:
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram087&hide=Jupyter%20Notebook&layout=compact" />
     </td>
-    <!-- <td>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@vikram087" />
-    </td> -->
+    </td>
   </tr>
 </table>
