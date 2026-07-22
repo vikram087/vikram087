@@ -10,14 +10,11 @@
 Here are some of my favorite projects:
 
 <!-- - 🤺 [Garde](https://github.com/GardeFencing) - [gardeai.com](https://gardeai.com) -->
-- 🔗 Linkkup - [linkkup.ai](https://linkkup.ai)
-- 🔬 [Matsearch](https://github.com/vikram087/matsearch)
+- 🔗 Linkkup - [linkkup.ai](https://linkkup.ai) – 1,000+ users
+- 🎉 Partydrop - [partydrop.live](https://partydrop.live) - AI Agents on iMessage: 5,000+ revenue, 800+ users, 11,000+ messages
+- 🔬 [Matsearch](https://github.com/vikram087/matsearch) - Distributed Search Engine
 - 📚 Pomodoro (CruzHacks Winner) - [Web App](https://github.com/Shaurya-Srivastav/AggieGuide), [Chatbot](https://github.com/Shaurya-Srivastav/AggieGuidePython), [Practice Test Maker](https://github.com/vikram087/Aggie_Helper_PTest), [Note Maker](https://github.com/Shaurya-Srivastav/AggieGuideNotes)
-- 🏔️ [ClimbGUI](https://github.com/Climb-GUI/Climb_GUI) - [climb-gui.netlify.app](https://climb-gui.netlify.app)
-- 🧠 [MindShift](https://github.com/vikram087/MindShift)
-- 🦈 [Sharkproof](https://github.com/EW0824/CalHacks24)
-- 🤝 [HelpingHand](https://github.com/Helping-Hand-HHH/HelpingHand)
-- 🏎️ [Traffic Invaders](https://github.com/vikram087/TrafficInvaders)
+- 🏎️ [Traffic Invaders](https://github.com/vikram087/TrafficInvaders) - Fun high school project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
