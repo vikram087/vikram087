@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikram Penumarti</h1>
+<h1 align="center">Hi 👋🏾, I'm Vikram Penumarti</h1>
 <h3 align="center">Software Engineer · Founder · UC Davis Alum</h3>
 
 <!-- <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨🏾‍💻 About Me
 
 - 🚀 Two-time founder — built and shipped products used by thousands
 - 🤖 I like building **AI-native, full-stack products** end to end
