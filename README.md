@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋🏾, I'm Vikram Penumarti</h1>
-<h3 align="center">Software Engineer · Founder · UC Davis Alum</h3>
+<pre>
+                          ___                       ___           ___           ___           ___     
+                         /\__\          ___        /\__\         /\  \         /\  \         /\__\    
+                        /:/  /         /\  \      /:/  /        /::\  \       /::\  \       /::|  |   
+                       /:/  /          \:\  \    /:/__/        /:/\:\  \     /:/\:\  \     /:|:|  |   
+                      /:/__/  ___      /::\__\  /::\__\____   /::\~\:\  \   /::\~\:\  \   /:/|:|__|__ 
+                      |:|  | /\__\  __/:/\/__/ /:/\:::::\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/ |::::\__\
+                      |:|  |/:/  / /\/:/  /    \/_|:|~~|~    \/_|::\/:/  / \/__\:\/:/  / \/__/~~/:/  /
+                      |:|__/:/  /  \::/__/        |:|  |        |:|::/  /       \::/  /        /:/  / 
+                       \::::/__/    \:\__\        |:|  |        |:|\/__/        /:/  /        /:/  /  
+                        ~~~~         \/__/        |:|  |        |:|  |         /:/  /        /:/  /   
+                                                   \|__|         \|__|         \/__/         \/__/    
+</pre>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikram087&style=flat-square&color=blue" alt="profile views" />
-</p> -->
+<h3 align="center">Software Engineer · Founder · UC Davis Alum</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vikram-penumarti" target="_blank" rel="noopener noreferrer">
@@ -16,6 +25,20 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vikram%20Penumarti&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Founder%20%C2%B7%20UC%20Davis%20Alum&descAlignY=58&descSize=18" /> 
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/vikram-penumarti" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
+  </a> 
+  <a href="https://devpost.com/vikram087" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /> 
+  </a> 
+  <a href="mailto:vikram.penumarti@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> 
+  </a> 
+</p> -->
 
 ---
 
