@@ -5,7 +5,7 @@
 
 Email: **vikram.penumarti@gmail.com**
 
-LinkedIn: <a href="https://www.linkedin.com/in/vikram-penumarti" target="blank">https://www.linkedin.com/in/vikram-penumarti</a>
+LinkedIn: <a href="https://linkedin.com/in/vikram-penumarti" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikram-penumarti" height="30" width="40" /></a>
 
 ## 🚀 Check out my repositories
 
@@ -20,5 +20,5 @@ Here are some of my favorite projects:
 
 <h3 align="left">Check out my Devpost:</h3>
 <p align="left">
-<a href="https://devpost.com/vikram087" target="blank"><img align="center" src="https://imgs.search.brave.com/RtZBkxw_qlddGH1RjY-lnW3GdA4WuQ6EgF4iC9mrDpg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/NDY1MTUyYjc1ZjZm/N2YxYzBkZmMwNDIv/NjQ2NjFkYzRmMjFh/Y2M1MDdlZmZkZWE0/X2RldnBvc3QtbG9n/by5zdmc" alt="vikram-penumarti" height="30" width="154" /></a>
+<a href="https://devpost.com/vikram087" target="_blank" rel="noopener noreferrer"><img align="center" src="https://imgs.search.brave.com/RtZBkxw_qlddGH1RjY-lnW3GdA4WuQ6EgF4iC9mrDpg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/NDY1MTUyYjc1ZjZm/N2YxYzBkZmMwNDIv/NjQ2NjFkYzRmMjFh/Y2M1MDdlZmZkZWE0/X2RldnBvc3QtbG9n/by5zdmc" alt="vikram-penumarti" height="30" width="154" /></a>
 </p>
