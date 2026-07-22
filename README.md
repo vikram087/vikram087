@@ -1,24 +1,40 @@
 <h1 align="center">Hi 👋, I'm Vikram Penumarti</h1>
-<h3 align="center">Software Engineer, Founder, and UC Davis Alum</h3>
+<h3 align="center">Software Engineer · Founder · UC Davis Alum</h3>
 
-## 📫 How to reach me 
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikram087&style=flat-square&color=blue" alt="profile views" />
+</p> -->
 
-Email: **vikram.penumarti@gmail.com**
-
-LinkedIn: <a href="https://linkedin.com/in/vikram-penumarti" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikram-penumarti" height="30" width="40" /></a>
-
-## 🚀 Check out my repositories
-
-Here are some of my favorite projects:
-
-- 🔗 Linkkup - [linkkup.ai](https://linkkup.ai) – Make friends on campus: 1,000+ users
-- 🎉 Partydrop - [partydrop.live](https://partydrop.live) - AI Agents on iMessage: $5,000+ revenue, 11,000+ messages, 800+ users
-- 🤺 Garde - [gardeai.com](https://gardeai.com) - AI fencing coach: UC Davis Plasma '25, Spoke with Olympic gold medalists, CEO of USA Fencing
-- 🔬 [Matsearch](https://github.com/vikram087/matsearch) - Research Paper Search Engine: Vector Search, NLP, Fullstack, Infra
-- 📚 Pomodoro (CruzHacks Winner) - [Web App](https://github.com/Shaurya-Srivastav/AggieGuide), [Chatbot](https://github.com/Shaurya-Srivastav/AggieGuidePython), [Practice Test Maker](https://github.com/vikram087/Aggie_Helper_PTest), [Note Maker](https://github.com/Shaurya-Srivastav/AggieGuideNotes)
-- 🏎️ [Traffic Invaders](https://github.com/vikram087/TrafficInvaders) - Fun high school project
-
-<h3 align="left">Check out my Devpost:</h3>
-<p align="left">
-<a href="https://devpost.com/vikram087" target="_blank" rel="noopener noreferrer"><img align="center" src="https://imgs.search.brave.com/RtZBkxw_qlddGH1RjY-lnW3GdA4WuQ6EgF4iC9mrDpg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/NDY1MTUyYjc1ZjZm/N2YxYzBkZmMwNDIv/NjQ2NjFkYzRmMjFh/Y2M1MDdlZmZkZWE0/X2RldnBvc3QtbG9n/by5zdmc" alt="vikram-penumarti" height="30" width="154" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikram-penumarti" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://devpost.com/vikram087" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" />
+  </a>
+  <a href="mailto:vikram.penumarti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🚀 Two-time founder — built and shipped products used by thousands
+- 🤖 I like building **AI-native, full-stack products** end to end
+- 🎓 UC Davis Computer Science alum
+- 💬 Ask me about **Founding, AI Agents, and going 0 → 1**
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it is | Highlights |
+|---|---|---|
+| 🔗 **[Linkkup](https://linkkup.ai)** | Make friends on campus | `1,000+ users` |
+| 🎉 **[PartyDrop](https://partydrop.live)** | AI agents on iMessage for events | 1 month: `$5K+ revenue` · `11K+ messages` · `800+ users` |
+| 🤺 **[Garde](https://gardeai.com)** | AI fencing coach | UC Davis Plasma '25 · backed by Olympic medalists & the CEO of USA Fencing |
+| 🔬 **[Matsearch](https://github.com/vikram087/matsearch)** | Research paper search engine | `Vector search` · `NLP` · `full-stack` · `infra` |
+| 📚 **Aggie Guide** *(CruzHacks Winner)* | AI study suite | [Web App](https://github.com/Shaurya-Srivastav/AggieGuide) · [Chatbot](https://github.com/Shaurya-Srivastav/AggieGuidePython) · [Practice Tests](https://github.com/vikram087/Aggie_Helper_PTest) · [Notes](https://github.com/Shaurya-Srivastav/AggieGuideNotes) |
+| 🏎️ **[Traffic Invaders](https://github.com/vikram087/TrafficInvaders)** | Arcade-style game | Fun high school project |
